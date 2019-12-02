@@ -1,0 +1,22 @@
+PODS:
+  - SlideMenuControllerSwift (5.0.0)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift (from `https://github.com/AtomicSLLC/SlideMenuControllerSwift.git`, branch `swift5`)
+
+EXTERNAL SOURCES:
+  SlideMenuControllerSwift:
+    :branch: swift5
+    :git: https://github.com/AtomicSLLC/SlideMenuControllerSwift.git
+
+CHECKOUT OPTIONS:
+  SlideMenuControllerSwift:
+    :commit: 21240fd221adc2e50adb366d45bc19185bb62e3c
+    :git: https://github.com/AtomicSLLC/SlideMenuControllerSwift.git
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: d740ea24105a658fe6a8c256f2bf5832fee7c047
+
+PODFILE CHECKSUM: 8624b0740a3581e1f3e3d77e372a0823297f5dce
+
+COCOAPODS: 1.8.4
